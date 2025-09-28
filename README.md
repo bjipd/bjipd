@@ -11,4 +11,4 @@
 ⚡ Fun fact: I am a rockstar in the bathroom😅
 
 ## Contact
-📫 How to reach me through:  📧 [Email](dikeox11@gmail.com) 
+📫 Reach me through:  📧 [Email](dikeox11@gmail.com) 
