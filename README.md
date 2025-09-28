@@ -10,5 +10,5 @@
 
 ⚡ Fun fact: I am a rockstar in the bathroom😅
 
-## Orations
+## Contact
 📫 How to reach me through:  📧 [Email](dikeox11@gmail.com) 
