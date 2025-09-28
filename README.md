@@ -1,5 +1,5 @@
-## Hi there 👋, I am Dike Ikuh
--💻- Software Engineer | Building with C# 🟣 .NET ⚙️, Javascript 📄 and Java☕.
+## Hi, I am Dike 👋
+💻- Software Engineer | Building with C# 🟣 .NET ⚙️, Javascript 📄 and Java☕.
 
 🌱 About Me:
 🎯 Enjoy Mathematics, Arts and Travels.
@@ -10,4 +10,8 @@
 
 ⚡ Fun fact: I am a rockstar in the bathroom😅
 
-📫 How to reach me: dikeox11@gmail.com
+📫 How to reach me: 
+
+## Orations
+You can reach me through:  
+📧 [Email](dikeox11@gmail.com) 
