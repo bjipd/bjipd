@@ -10,4 +10,4 @@
 
 ⚡ Fun fact: I can deadlift more than I can debug sometimes 😅
 
-- 📫 How to reach me: dikeox11@gmail.com
+📫 How to reach me: dikeox11@gmail.com
