@@ -8,6 +8,6 @@
 
 🏋️ Outside coding: I enjoy exercising, health wellness.
 
-⚡ Fun fact: I can deadlift more than I can debug sometimes 😅
+⚡ Fun fact: I am a rockstar in the bathroom😅
 
 📫 How to reach me: dikeox11@gmail.com
