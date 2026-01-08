@@ -2,7 +2,7 @@
 💻- Software Engineer | Building with C# 🟣 .NET ⚙️, Javascript 📄 and Java☕.
 
 🌱 About Me:
-🎯 Enjoy Mathematics, Arts and Travels.
+🎯 Enjoy Mathematics, Physics, Arts and Travels.
 
 🤝 Open to collaborating on open source projects.
 
