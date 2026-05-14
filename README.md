@@ -6,7 +6,7 @@
 
 🤝 Open to collaborating on open source projects.
 
-🏋️ Outside coding: I enjoy exercising, health wellness.
+🏋️ Outside coding: I enjoy exercising, health wellness and sports esp football.
 
 ⚡ Fun fact: I am a rockstar in the bathroom😅
 
