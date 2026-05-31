@@ -8,7 +8,7 @@
 
 🏋️ Outside coding: I enjoy exercising, health wellness and sports esp football.
 
-⚡ Fun fact: I am a rockstar in the bathroom😅
+⚡ Fun fact: The iron in my blood comes from an ancient star brighter than sirius.
 
 ## Contact
 📫 Reach me through:  📧 [Email](dikeox11@gmail.com) 
