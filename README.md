@@ -1,4 +1,4 @@
-## Hi, I am Dike 👋
+## Hi, I am Precious 👋
 💻- Software Engineer | Building with C# 🟣 .NET ⚙️, Javascript 📄 and Java☕.
 
 🌱 About Me:
