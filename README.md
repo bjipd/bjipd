@@ -14,6 +14,8 @@
 📫 Reach me through:  📧 [Email](dikeox11@gmail.com) 
 
 
-## Most Used Languages
+<h2 align="center">Most Used Languages</h2>
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=bjipd&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bjipd&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
