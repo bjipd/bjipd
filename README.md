@@ -13,3 +13,7 @@
 ## Contact
 📫 Reach me through:  📧 [Email](dikeox11@gmail.com) 
 
+
+## Most Used Languages
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=bjipd&layout=compact&theme=tokyonight&hide_border=true)
