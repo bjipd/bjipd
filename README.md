@@ -8,7 +8,7 @@
 
 🏋️ Outside coding: I enjoy exercising, health wellness and sports esp football.
 
-⚡ Hard fact: Everything in this planet is ironical
+⚡ Hard fact: most events that takes place on this planet are ironical.
 
 ## Contact
 📫 Reach me through:  📧 [Email](dikeox11@gmail.com) 
