@@ -8,7 +8,7 @@
 
 🏋️ Outside coding: I enjoy exercising, health wellness and sports esp football.
 
-⚡ Fun fact: ukelele + cymbals = sound of greatness!
+⚡ Hard fact: Everything in this planet is ironical
 
 ## Contact
 📫 Reach me through:  📧 [Email](dikeox11@gmail.com) 
