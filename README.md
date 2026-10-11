@@ -17,5 +17,9 @@
 <h2 align="center">Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bjipd&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=bjipd&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    alt="Most Used Languages"
+  />
 </p>
+
